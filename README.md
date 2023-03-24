@@ -106,3 +106,7 @@ To run the test suite, execute:
 ```
 rspec
 ```
+
+## Error Handling
+
+If you do not want to use airbrake. You can also use [Exception Notification](https://github.com/smartinez87/exception_notification)
