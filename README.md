@@ -1,4 +1,4 @@
-# HOMETIME ACCESSMENT
+# ACCESSMENT
 
 This is a Ruby on Rails project built with Rails 7.0.4 and Ruby 3.0.4. It uses PostgreSQL as the database, Sidekiq for background processing, RSpec for testing, and Airbrake for error handling.
 
